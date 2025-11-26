@@ -1,0 +1,323 @@
+THIRD-PARTY-NOTICES
+
+This project includes third-party packages that are distributed under various open-source licenses. Below is a list of packages and their associated licenses.
+
+================================================================================
+Package: Spring Boot & Spring Cloud Stack
+(Spring Boot Starters for Web, Data JPA, Security, Mail, Batch, Actuator, Test; Spring Security Test;
+Spring Data JPA; Spring Retry; Spring Cloud Starters for Bootstrap & Loadbalancer; Spring Boot Maven Plugin;
+Spring Boot Dependencies BOM; Spring Cloud Dependencies BOM)
+Version: Spring Boot 3.2.3, Spring Cloud 2023.0.0; components in the 3.2.x / 4.1.x family
+License: Apache License 2.0 (Inferred from official repository)
+Homepage: https://spring.io/projects/spring-boot
+================================================================================
+
+================================================================================
+Package: Spring Framework & Spring Aspects
+(Spring Core / Framework modules, Spring Aspects)
+Version: 6.x family
+License: Apache License 2.0 (Inferred)
+Homepage: https://spring.io/projects/spring-framework
+================================================================================
+
+================================================================================
+Package: Spring Data JPA
+Version: 3.x family
+License: Apache License 2.0 (Inferred)
+Homepage: https://spring.io/projects/spring-data-jpa
+================================================================================
+
+================================================================================
+Package: Spring Retry
+Version: 2.x family
+License: Apache License 2.0 (Inferred)
+Homepage: https://github.com/spring-projects/spring-retry
+================================================================================
+
+================================================================================
+Package: SpringDoc OpenAPI & Swagger Integration
+(SpringDoc OpenAPI UI, Starter WebMVC UI, Swagger Core, Swagger Models, Swagger Annotations)
+Version: 1.x / 2.x family
+License: Apache License 2.0 (Inferred)
+Homepage: https://springdoc.org/
+================================================================================
+
+================================================================================
+Package: Jackson JSON Processor
+(jackson-core, jackson-annotations, jackson-databind, jackson-datatype-jdk8,
+jackson-datatype-jsr310, jackson-module-afterburner)
+Version: 2.x family
+License: Apache License 2.0
+Homepage: https://github.com/FasterXML/jackson
+================================================================================
+
+================================================================================
+Package: Micrometer Observability Stack
+(micrometer-core, micrometer-registry-prometheus, micrometer-tracing,
+micrometer-tracing-bridge-brave)
+Version: 1.x family
+License: Apache License 2.0 (Inferred)
+Homepage: https://micrometer.io/
+================================================================================
+
+================================================================================
+Package: Vert.x Stack
+(vertx-web, vertx-web-client, vertx-unit, vertx-config, vertx-health-check,
+vertx-micrometer-metrics, vertx-lang-ceylon)
+Version: 3.x family
+License: Apache License 2.0 (Inferred)
+Homepage: https://vertx.io/
+================================================================================
+
+================================================================================
+Package: MOSIP Kernel Libraries
+(kernel-bom, kernel-core, kernel-dataaccess-hibernate, kernel-idvalidator-prid,
+kernel-idvalidator-vid, kernel-idgenerator-prid, kernel-idgenerator-vid,
+kernel-templatemanager-velocity, kernel-logger-logback, kernel-auth-adapter,
+kernel-smsserviceprovider-msg91)
+Version: 1.3.0-SNAPSHOT / 1.2.x family
+License: Mozilla Public License 2.0 (Inferred)
+Homepage: https://github.com/mosip
+================================================================================
+
+================================================================================
+Package: Apache Commons
+(commons-lang3, commons-collections, commons-collections4, commons-io)
+Version: 3.x family; commons-io 2.x
+License: Apache License 2.0
+Homepage: https://commons.apache.org/
+================================================================================
+
+================================================================================
+Package: Apache HttpComponents
+(httpclient, httpclient5)
+Version: 4.5.x and 5.x
+License: Apache License 2.0
+Homepage: https://hc.apache.org/
+================================================================================
+
+================================================================================
+Package: Apache Velocity & Velocity Tools
+(velocity, velocity-tools)
+Version: 1.7 and 2.0
+License: Apache License 2.0
+Homepage: https://velocity.apache.org/
+================================================================================
+
+================================================================================
+Package: Apache PDFBox Suite
+(pdfbox, fontbox, pdfbox-tools)
+Version: 2.0.29
+License: Apache License 2.0
+Homepage: https://pdfbox.apache.org/
+================================================================================
+
+================================================================================
+Package: OpenHTMLToPDF (PDFBox Renderer)
+(openhtmltopdf-pdfbox)
+Version: 1.0.10
+License: LGPL-2.0-or-later / LGPL-2.1-or-later / LGPL-3.0
+Homepage: https://github.com/danfickle/openhtmltopdf
+================================================================================
+
+================================================================================
+Package: Bouncy Castle Cryptography Libraries
+(bcprov-jdk15on, bcprov-jdk18on, bcpkix-jdk15on)
+Version: 1.66 and 1.78.1
+License: MIT
+Homepage: https://www.bouncycastle.org/
+================================================================================
+
+================================================================================
+Package: SLF4J Logging API & Bridges
+(slf4j-api, jcl-over-slf4j, jul-to-slf4j)
+Version: 1.x family
+License: MIT (Inferred)
+Homepage: https://www.slf4j.org/
+================================================================================
+
+================================================================================
+Package: Logback Logging Framework
+(logback-core, logback-classic, logback-access)
+Version: 1.x family
+License: EPL-1.0
+Homepage: https://logback.qos.ch/
+================================================================================
+
+================================================================================
+Package: Logstash Logback Encoder
+(logstash-logback-encoder)
+Version: 6.4
+License: Apache License 2.0
+Homepage: https://github.com/logfellow/logstash-logback-encoder
+================================================================================
+
+================================================================================
+Package: Apache Log4j Core
+(log4j-core)
+Version: 2.x
+License: Apache License 2.0
+Homepage: https://logging.apache.org/log4j/2.x/
+================================================================================
+
+================================================================================
+Package: JSON Utilities
+(org.json:json, json-simple, json-schema-validator)
+Version: Various (as per SBOM)
+License:
+- org.json: Public Domain-equivalent
+- json-simple: Apache License 2.0
+- json-schema-validator: Apache License 2.0 + LGPL-3.0
+Homepage:
+- org.json: https://github.com/stleary/JSON-java
+- json-simple: https://github.com/fangyidong/json-simple
+- json-schema-validator: https://github.com/java-json-tools/json-schema-validator
+================================================================================
+
+================================================================================
+Package: Auth0 JWT Libraries
+(java-jwt, jwks-rsa)
+Version: java-jwt 3.8.1; jwks-rsa 0.18.0
+License: MIT
+Homepage: https://github.com/auth0/java-jwt
+================================================================================
+
+================================================================================
+Package: Java JWT (jjwt)
+Version: 0.6.0
+License: Apache License 2.0
+Homepage: https://github.com/jwtk/jjwt
+================================================================================
+
+================================================================================
+Package: Jakarta & Javax EE APIs
+(jakarta.persistence-api, jakarta.validation-api, javax.persistence-api,
+javax.validation-api, javax.transaction-api, javax.interceptor-api,
+javax.servlet-api, javax.xml.bind:jaxb-api, javax.activation:activation)
+Version: 1.x–3.x families
+License: CDDL / GPL-classpath / EPL / BSD (varies per module)
+Homepage:
+- Jakarta: https://jakarta.ee/
+- Javax: https://javaee.github.io/
+================================================================================
+
+================================================================================
+Package: Hibernate & Hibernate Validator
+Version: 6.x / 7.x families
+License: Apache License 2.0 (Inferred)
+Homepage: https://hibernate.org/
+================================================================================
+
+================================================================================
+Package: Quartz Scheduler
+Version: 2.3.2
+License: Apache License 2.0
+Homepage: https://www.quartz-scheduler.org/
+================================================================================
+
+================================================================================
+Package: Database Drivers
+(H2 Database, PostgreSQL JDBC Driver)
+Version: H2 1.x; PostgreSQL JDBC 42.x
+License:
+- H2: MPL 2.0 / EPL
+- PostgreSQL JDBC: BSD license
+Homepage:
+- H2: https://www.h2database.com/
+- PostgreSQL JDBC: https://jdbc.postgresql.org/
+================================================================================
+
+================================================================================
+Package: IBM ICU4J
+Version: 73.2
+License: Unicode License (Unicode-DFS-2016)
+Homepage: https://icu.unicode.org/
+================================================================================
+
+================================================================================
+Package: Jsoup HTML Parser
+Version: 1.18.1
+License: MIT
+Homepage: https://jsoup.org/
+================================================================================
+
+================================================================================
+Package: ZXing JavaSE
+Version: 3.4.1
+License: Apache License 2.0
+Homepage: https://github.com/zxing/zxing
+================================================================================
+
+================================================================================
+Package: Hazelcast IMDG
+Version: 3.9.4
+License: Apache License 2.0
+Homepage: https://hazelcast.org/
+================================================================================
+
+================================================================================
+Package: Apache Tomcat Embedded
+Version: 10.x family
+License: Apache License 2.0
+Homepage: https://tomcat.apache.org/
+================================================================================
+
+================================================================================
+Package: Model Mapping Libraries
+(ModelMapper, Orika, MVEL)
+Version: Various (as per SBOM)
+License: Apache License 2.0
+Homepage:
+- ModelMapper: http://modelmapper.org/
+- Orika: https://github.com/orika-mapper/orika
+- MVEL: https://github.com/mvel/mvel
+================================================================================
+
+================================================================================
+Package: Ceylon & Vert.x Ceylon Integration
+(ceylon-complete, vertx-lang-ceylon)
+Version: 1.3.2 / 3.4.1
+License: Apache License 2.0
+Homepage: https://github.com/eclipse-vertx/vertx-lang-ceylon
+================================================================================
+
+================================================================================
+Package: Testing Libraries
+(JUnit 4/5, Mockito, PowerMock, Spring Boot Test, Vert.x Unit)
+Version: Various
+License:
+- JUnit: EPL
+- Mockito: MIT
+- PowerMock: Apache License 2.0
+- Spring Test: Apache License 2.0
+Homepage:
+- JUnit: https://junit.org/
+- Mockito: https://site.mockito.org/
+- PowerMock: https://github.com/powermock/powermock
+================================================================================
+
+================================================================================
+Package: OWASP Java Encoder
+Version: 1.2.3
+License: BSD-3-Clause
+Homepage: https://owasp.org/www-project-java-encoder/
+================================================================================
+
+================================================================================
+Package: Apache Maven Plugins & Build Tooling
+(maven-compiler-plugin, maven-jar-plugin, maven-war-plugin, maven-surefire-plugin,
+maven-javadoc-plugin, maven-source-plugin, maven-gpg-plugin, sonar-maven-plugin,
+jacoco-maven-plugin, git-commit-id-plugin, central-publishing-maven-plugin,
+spring-boot-maven-plugin, springdoc-openapi-maven-plugin)
+Version: Various (2.x–3.x families; JaCoCo 0.8.x; Sonar 3.7.x)
+License:
+- Maven plugins: Apache License 2.0
+- JaCoCo: EPL-2.0
+- Sonar plugin: LGPL-3.0
+Homepage:
+- Maven Plugins: https://maven.apache.org/plugins/
+- JaCoCo: https://www.jacoco.org/jacoco/
+- Sonar Maven: https://docs.sonarsource.com/
+================================================================================
+
+Full license texts and additional details for each of the above packages are available in the license/ directory of this repository. Please refer to those files or the original source of each package for complete legal terms and conditions.
